@@ -1,0 +1,11 @@
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\bin\Debug\StajProjem.exe.config
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\bin\Debug\StajProjem.exe
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\bin\Debug\StajProjem.pdb
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.csproj.AssemblyReference.cache
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.Form1.resources
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.Properties.Resources.resources
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.csproj.GenerateResource.cache
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.csproj.CoreCompileInputs.cache
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.exe
+C:\Users\yaprak\source\repos\StajProjem\StajProjem\obj\Debug\StajProjem.pdb
